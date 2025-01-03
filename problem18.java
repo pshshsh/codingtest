@@ -3,3 +3,4 @@ public class problem18 {
     public static int solution(String s) {
         return Integer.parseInt(s);
     }
+}
