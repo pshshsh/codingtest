@@ -7,7 +7,7 @@ class problem29 {
         if (arr.length == 1) {
             return new int[] { -1 };
         }
-        // 최소값 찾기
+        // 배열에서 최소값 찾기
         int min = arr[0];
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] < min) {
