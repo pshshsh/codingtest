@@ -13,6 +13,7 @@ class problem29 {
             if (arr[i] < min) {
                 min = arr[i];
             }
+
         }
 
         int[] answer = new int[arr.length - 1];
